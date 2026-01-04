@@ -1,4 +1,4 @@
-# REI
+# REI 🤖📘🌒
 
 > A machine-native web framework for compositional execution and AI-driven systems. 🌑
 
