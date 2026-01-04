@@ -1,11 +1,12 @@
-# REI
-Design artifacts and the philosophical core/framework identity
+# REI - AI Instrumentality Project
+
+Design artifacts and the philosophical core/framework identity are in [rei-project/REI](https://github.com/rei-project/REI)
 
 ---
 
 ## Overview
 
-REI is a web framework designed for environments where **language models are active participants** in system construction, inspection, and evolution.
+REI is a concept designed for environments where **language models are active participants** in system construction, inspection, and evolution.
 
 It is inspired by stack-based execution models, compositional semantics, and virtual machines that favor **explicit state** over hidden abstraction.
 
